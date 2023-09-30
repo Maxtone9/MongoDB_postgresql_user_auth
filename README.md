@@ -1,1 +1,1 @@
-# MongoDB_postgresql_user_auth
+# This code is used to store registered user details in postgresql and mongodb
